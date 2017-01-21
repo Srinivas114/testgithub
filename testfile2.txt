@@ -1,0 +1,4 @@
+Hi
+This is 2 testfile adding in to respository
+next is to add the folder to repository
+bbye
